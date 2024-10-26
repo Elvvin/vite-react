@@ -1,0 +1,11 @@
+#root{
+  max-width: 2000px;
+  margin: 0 auto;
+}
+
+.header{
+  width: 1000px;
+  height: 200px;
+  background-color: azure;
+  box-sizing: border-box;
+}
